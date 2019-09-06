@@ -1,15 +1,15 @@
 # Machine Learning Algorithms
     I . Supervised Learning Algorithms
-    II . Un_Supervised LEarning Algorithms
+   II . Un_Supervised LEarning Algorithms
 Supervised learning algorithms are classified into below
       i. K-Nearest Neighbors Classifier (KNN)
-      ii. Naive Bayes Classifier (NBC)
-      iii. Support Vector Machine (SVM)
-      iv. Decision Tress
+     ii. Naive Bayes Classifier (NBC)
+    iii. Support Vector Machine (SVM)
+     iv. Decision Tress
       v. Random Forest
-      vi. Association Rules
+     vi. Association Rules
 Un_Supervised learning algorithms are classified into below
       i. Principal Component Analysis (PCA)
-      ii. K-Means Clustering
-      iii. Hierarchical Clustering / H- Clustering
+     ii. K-Means Clustering
+    iii. Hierarchical Clustering / H- Clustering
       
